@@ -1,0 +1,90 @@
+.catering-container {
+  width: 80%;
+  margin: auto;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.catering-container img {
+  width: 100%;
+  margin-bottom: 20px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.catering-heading {
+  color: #4a2d00;
+  margin-bottom: 20px;
+  font-size: 40px;
+  background-color: #fff2d8;
+  padding: 20px 0;
+}
+
+.catering-desc1 {
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.catering-desc2 {
+  font-size: 16px;
+  margin-bottom: 50px;
+}
+
+.sub-heading-catering {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-weight: 600;
+  text-decoration: underline;
+  background-color: #fff2d8;
+  padding: 10px 0;
+}
+
+.elements-div {
+  width: 80%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  column-gap: 20px;
+}
+
+.catering-card {
+  padding: 20px;
+  background-color: #fff2d8;
+}
+
+.catering-card-elm {
+  margin: 20px 0;
+}
+
+.catering-card h3 {
+  font-size: 16px;
+  margin: 20px 0;
+}
+
+.cc-heading {
+  font-size: 20px;
+  color: #4a2d00;
+  font-weight: 600;
+  text-decoration: underline;
+  margin-bottom: 20px;
+}
+
+.cc2-heading {
+  font-size: 18px;
+  color: #4a2d00;
+  font-weight: 400;
+  margin-top: 50px;
+  text-decoration: underline;
+}
+
+@media (max-width: 1000px) {
+  .elements-div {
+    width: 80%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    row-gap: 20px;
+  }
+}
