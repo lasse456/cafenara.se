@@ -64,6 +64,7 @@
   top: 0;
   right: -100%;
   width: 20%;
+  min-width: 260px;
   background: #fff2d8;
   border-radius: 14px;
   list-style: none;
