@@ -23,7 +23,7 @@ function Catering() {
           önska lägga till eller plocka bort ska vi göra vårt yttersta för att
           möta era önskemål. Vi tillagar och förbereder alltid er beställning på
           kaféet, så att det är dagsfärskt, gott och smakrikt. Förfrågan skickas
-          via formuläret nedan, vi återkommer med en bekräftelse när det är
+          via formuläret nedan, vi återkommer me en bekräftelse när det är
           mottaget. Du kan även ta kontakt med vår trevliga personal på kaféet
           så hjälper vi er. Beroende på tillfälle kan vi även assistera er med
           leverans vid behov. Vi ser fram emot att servera dig!
